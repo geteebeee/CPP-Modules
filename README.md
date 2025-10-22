@@ -15,9 +15,9 @@ make            # compile the project
 make clean      # remove object files
 make fclean     # remove binaries + objects
 make re         # rebuild everything
-Example usage
-bash
 
+
+# Example usage:
 cd cpp04/ex02
 make
 ./Animal
